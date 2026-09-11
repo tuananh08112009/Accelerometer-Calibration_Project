@@ -26,6 +26,6 @@ without ever examining how they were produced.
 - [ ] Frequency sweep
 
 ## Project developed by:
-Quinn Qhao (Quinn-777)
-Tuan Anh Luong (tuananh08112009)
+- Founder: Quinn Qhao (Quinn-777)
+- Co-Founder: Tuan Anh Luong (tuananh08112009)
 
