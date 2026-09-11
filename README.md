@@ -24,3 +24,8 @@ without ever examining how they were produced.
 - [ ] Six-position static calibration
 - [ ] Shake table built
 - [ ] Frequency sweep
+
+## project by:
+Quinn Qhao (Quinn-777)
+Tuan Anh Luong (tuananh08112009)
+
